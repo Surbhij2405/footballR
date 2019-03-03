@@ -11,9 +11,9 @@ Maintainer: David Sheehan <davidfsheehan87@gmail.com>
 LazyData: true
 Imports:
     httr,
-    jsonlite
+ jsonlite
 Suggests:
     knitr,
-    rmarkdown
+ rmarkdown
 VignetteBuilder: knitr
 RoxygenNote: 5.0.1
